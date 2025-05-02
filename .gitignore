@@ -1,0 +1,37 @@
+# ⛔ Ignorer les fichiers de compilation Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ⛔ Ignorer les fichiers générés par PyInstaller
+*.spec
+dist/
+build/
+*.exe
+*.dmg
+*.AppImage
+
+# ⛔ Ignorer les fichiers de logs et temporaires
+*.log
+*.tmp
+*.swp
+
+# ⛔ Ignorer les fichiers système
+.DS_Store
+Thumbs.db
+
+# ⛔ Ignorer les environnements virtuels
+venv/
+env/
+.venv/
+
+# ⛔ Ignorer les dépendances installées (si Conda ou pip est utilisé)
+requirements.txt.lock
+
+# ⛔ Ignorer les fichiers spécifiques à VS Code
+.vscode/
+
+# ⛔ Ignorer les résultats générés (images traitées, nuages de points)
+results/
+images/
