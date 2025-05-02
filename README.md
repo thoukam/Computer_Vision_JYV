@@ -34,8 +34,8 @@ Computer_Vision_App/
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/ton-groupe/projet-vision.git
-cd projet-vision
+https://github.com/thoukam/Computer_Vision_JYV.git
+cd Computer_Vision_JYV
 ```
 
 ### 2. Créer un environnement virtuel (optionnel mais recommandé)
