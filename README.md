@@ -34,7 +34,7 @@ Computer_Vision_App/
 ### 1. Cloner le projet
 
 ```bash
-https://github.com/thoukam/Computer_Vision_JYV.git
+git clone https://github.com/thoukam/Computer_Vision_JYV.git
 cd Computer_Vision_JYV
 ```
 
