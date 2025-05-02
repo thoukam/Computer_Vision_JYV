@@ -85,8 +85,14 @@ Le binaire sera généré dans `dist/gui(.exe)`.
 * Windows 11 (avec Python 3.12)
 
 ## 🙌 Crédits
+Projet réalisé dans le cadre du module Computer Vision – Master 1
+Université de Bourgogne - Polytech Dijon
+Encadré par Prof. Y. Fougerolle
 
-Projet réalisé dans le cadre du module Computer Vision - Master 1 | Université de Bourgogne
+Étudiants :
 
-Prof. Y. Fougerolle
-Étudiants : \[vos noms ici]
+    AKOUANGHOU JEOL RUBEN THERENCE
+
+    MENDJE TCHEMMOE VANELLE LETICIA
+
+    THOUKAM THOTCHUM YVES
