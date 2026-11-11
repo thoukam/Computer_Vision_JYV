@@ -3,7 +3,7 @@ altgraph==0.17.4
 asttokens==3.0.0
 attrs==25.1.0
 blinker==1.9.0
-certifi==2025.1.31
+certifi==2026.10.18
 charset-normalizer==3.4.1
 click==8.1.8
 comm==0.2.2
@@ -26,7 +26,7 @@ ipython_pygments_lexers==1.1.1
 ipywidgets==8.1.5
 itsdangerous==2.2.0
 jedi==0.19.2
-Jinja2==3.1.5
+Jinja2==3.1.6
 joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
@@ -47,13 +47,13 @@ packaging==24.2
 pandas==2.2.3
 parso==0.8.4
 pexpect==4.9.0
-pillow==12.2.0
+pillow==13.0.0
 platformdirs==4.3.6
 plotly==6.0.0
 prompt_toolkit==3.0.50
 ptyprocess==0.7.0
 pure_eval==0.2.3
-Pygments==2.19.1
+Pygments==2.20.0
 pyinstaller==6.12.0
 pyinstaller-hooks-contrib==2025.1
 pyparsing==3.2.1
@@ -77,8 +77,8 @@ tqdm==4.67.1
 traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2025.1
-urllib3==2.7.0
+urllib3==2.8.0
 wcwidth==0.2.13
-Werkzeug==3.1.6
+Werkzeug==3.1.9
 widgetsnbextension==4.0.13
 zipp==3.21.0
